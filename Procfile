@@ -1,0 +1,1 @@
+worker: python genz_translate_bot.py
